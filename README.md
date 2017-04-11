@@ -21,11 +21,36 @@ My friend [Cha Minkyoo](https://github.com/cl9200) and I decided to study while 
 - Row picture
   - Picture of one equation(row) at a time
   - *One row becomes the base unit when actually drawing the graph*
-- ** Column picture **
+  - Plane --> line --> point
+- **Column picture**
   - Picture of a column at a time
   - Linear combination of the columns
+  - Line --> plane --> space
 - Matrix form
   - Using a matrix called A
 - AX = b (the matrix of coefficients x a vector of unknowns = right-hand side a v ector)
+
+### [Lecture 2: Elimination with matrices](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-2-elimination-with-matrices/)
+- Elimination
+  - About good matrix
+  - Pivot --> knock out below row
+  - A --> U (upper triangular)
+  - b --> c
+  - Elimination failure
+    - Pivot --> 0 --> matrix would have not been invertible
+- Back-Substitution
+  - Solve the equation after elimination
+- Elimination matrices
+  - Expression on matrix for elimination
+- Matrix multiplication
+- Exchange Row or Column
+  - Multply on the left: change row
+  - Multiply on the right: change column
+  - Permutation matrix: P, exchange two two rows
+- Inverse (elmination) matrix
+  - Undo steps
+
+### Book Chapter 1. Introduction to Vectors
+- 
 
 
