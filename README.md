@@ -50,7 +50,7 @@ My friend [Cha Minkyoo](https://github.com/cl9200) and I decided to study while 
 - Inverse (elmination) matrix
   - Undo steps
 
-### Book Chapter 1. Introduction to Vectors
-- 
-
+### Book Review
+- Chapter 1. Introduction to Vectors
+  - 1.1 Vectors and Linear combinations
 
